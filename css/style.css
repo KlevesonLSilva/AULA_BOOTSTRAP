@@ -1,0 +1,30 @@
+body{
+    font:20x Arial, sans-serif;
+    background-color: black;
+}
+.navbar{
+    background-color: black;
+}
+
+.quem-somos{
+    background-color:black;
+    color:whitesmoke;
+}
+
+.margin{
+    padding-top:10px;
+    padding-bottom:30px;
+}
+
+.parceiros{
+    background-color: black;
+    color:whitesmoke;
+}
+
+.clube{
+    color:whitesmoke;
+}
+
+.bg-footer{
+    color:whitesmoke
+}
